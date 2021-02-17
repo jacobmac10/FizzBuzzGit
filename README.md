@@ -1,4 +1,4 @@
-# FizzBuz
+# EditFizzBuzz
 
-FizzBuzz example using git from the terminal.
+FizzBuZZ new edit on new branch
 
